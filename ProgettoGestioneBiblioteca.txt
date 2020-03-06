@@ -1,3 +1,5 @@
+-- Primo Esercizio con Git ------
+
 Creare un progetto condiviso (gruppi da 2 ed equilibrati) che permetta le seguenti operazioni:
 
 Persona 1:
