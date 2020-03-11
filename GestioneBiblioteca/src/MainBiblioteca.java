@@ -1,7 +1,23 @@
 import java.io.ObjectInputStream.GetField;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
+
+/*
+ * Creare un progetto condiviso (gruppi da 2 ed equilibrati) che permetta le seguenti operazioni:
+
+Persona 1:
+crea i modelli per realizzare un software di gestione di una biblioteca. 
+Quindi scaffali, libri e prenotazioni. Inoltre deve gestire il salvataggio su file
+
+Persona 2
+si deve occupare della comunicazione con l'utente.
+ quindi un menù interattivo che permetta le CRUD sugli oggetti,
+ quando salvare i dati e le varie ricerche e ordinamenti (libri più venduti e meno venduti)
+
+
+ */
 
 public class MainBiblioteca {
 	private static List<Libro> elencoLibro;
